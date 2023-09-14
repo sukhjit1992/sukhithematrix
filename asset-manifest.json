@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sukhjit1992/sukhithematrix.git/static/css/main.323409e3.css",
-    "main.js": "/sukhjit1992/sukhithematrix.git/static/js/main.f3d8c13b.js",
-    "static/js/787.7b64073a.chunk.js": "/sukhjit1992/sukhithematrix.git/static/js/787.7b64073a.chunk.js",
-    "index.html": "/sukhjit1992/sukhithematrix.git/index.html",
-    "main.323409e3.css.map": "/sukhjit1992/sukhithematrix.git/static/css/main.323409e3.css.map",
-    "main.f3d8c13b.js.map": "/sukhjit1992/sukhithematrix.git/static/js/main.f3d8c13b.js.map",
-    "787.7b64073a.chunk.js.map": "/sukhjit1992/sukhithematrix.git/static/js/787.7b64073a.chunk.js.map"
+    "main.css": "/github.io/sukhithematrix/static/css/main.323409e3.css",
+    "main.js": "/github.io/sukhithematrix/static/js/main.3a56de95.js",
+    "static/js/787.7b64073a.chunk.js": "/github.io/sukhithematrix/static/js/787.7b64073a.chunk.js",
+    "index.html": "/github.io/sukhithematrix/index.html",
+    "main.323409e3.css.map": "/github.io/sukhithematrix/static/css/main.323409e3.css.map",
+    "main.3a56de95.js.map": "/github.io/sukhithematrix/static/js/main.3a56de95.js.map",
+    "787.7b64073a.chunk.js.map": "/github.io/sukhithematrix/static/js/787.7b64073a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323409e3.css",
-    "static/js/main.f3d8c13b.js"
+    "static/js/main.3a56de95.js"
   ]
 }
